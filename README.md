@@ -1,6 +1,6 @@
 # Sketch-iOS-UI
 
-<img align="left" src="https://github.com/svyatoynick/Sketch-iOS-UI/blob/master/Assets/preview.png"/>
+<img align="left" src="https://github.com/svyatoynick/Sketch-iOS-UI/blob/main/Assets/preview.png"/>
 
 You can be inspired by them, use them in their projects as a whole or take specific interface elements. 
 
