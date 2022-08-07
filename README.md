@@ -1,4 +1,4 @@
-# Sketch-iOS-UI
+# Customizable Apple apps interfaces in Sketch
 
 You can be inspired by them, use them in their projects as a whole or take specific interface elements. 
 
